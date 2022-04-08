@@ -1,4 +1,6 @@
-The role of water in host-guest interaction - https://arxiv.org/abs/2006.13274
+The role of water in host-guest interaction - DOI:10.1038/s41467-020-20310-0
+http://www.nature.com/articles/s41467-020-20310-0 
+https://arxiv.org/abs/2006.13274
 
 This archive contains all the input files needed to reproduce the results of the paper.
 In each folder the following files are available:
