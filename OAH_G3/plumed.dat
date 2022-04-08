@@ -71,7 +71,6 @@ ene: ENERGY
 OPES_METAD ...
    LABEL=opes
    ARG=cyl.z,sw
-   FILE=Kernels.data
    PACE=500
    BARRIER=50
    FILE=../Kernels.data
@@ -85,4 +84,3 @@ OPES_METAD ...
 PRINT ARG=* STRIDE=250 FILE=COLVAR FMT=%8.4f
 
 ENDPLUMED
-
