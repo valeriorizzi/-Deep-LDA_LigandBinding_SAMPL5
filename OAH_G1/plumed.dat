@@ -72,6 +72,7 @@ OPES_METAD ...
    LABEL=opes
    ARG=cyl.z,sw
    FILE=Kernels.data
+   BARRIER=50
    PACE=500
    FILE=../Kernels.data
    RESTART=NO
@@ -84,5 +85,4 @@ OPES_METAD ...
 PRINT ARG=* STRIDE=250 FILE=COLVAR FMT=%8.4f
 
 ENDPLUMED
-
 
