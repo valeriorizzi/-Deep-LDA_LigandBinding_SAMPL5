@@ -73,6 +73,7 @@ OPES_METAD ...
    ARG=cyl.z,sw
    FILE=Kernels.data
    PACE=500
+   BARRIER=50
    FILE=../Kernels.data
    RESTART=NO
    STATE_RFILE=../compressed_Kernels.data
@@ -84,5 +85,4 @@ OPES_METAD ...
 PRINT ARG=* STRIDE=250 FILE=COLVAR FMT=%8.4f
 
 ENDPLUMED
-
 
